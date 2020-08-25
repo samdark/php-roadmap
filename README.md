@@ -1,5 +1,7 @@
 # What should I learn as PHP backend engineer?
 
+> See also: [Must learn PHP tools](tools.md).
+
 ## Message brokers
 
 - RabbitMQ
