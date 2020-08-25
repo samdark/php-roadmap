@@ -3,8 +3,8 @@
 
 ## PHP
 
-- https://phptherightway.com/
-- composer
+- [PHP The Right Way](https://phptherightway.com/)
+- [Composer](https://getcomposer.org/)
 - Symfony, Yii, Laravel
 
 ## OOP/OOD
@@ -30,7 +30,7 @@
 
 ## Databases
 
-- SQL'99
+- [SQL'99](https://crate.io/docs/sql-99/en/latest/)
 - Locks, transactions
 - MySQL
 - PostgreSQL
