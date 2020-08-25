@@ -2,17 +2,13 @@
 
 ## Code style
 
-- PHP Coding Standards Fixer
-  - https://cs.symfony.com/
-- PHP_CodeSniffer
-  - https://github.com/squizlabs/PHP_CodeSniffer
-- StyleCI
-  - https://styleci.io/
+- [PHP Coding Standards Fixer](https://cs.symfony.com/)
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [StyleCI](https://styleci.io/)
 
 ## Dependencies
 
-- Composer
-  - https://getcomposer.org/
+- [Composer](https://getcomposer.org/)
 - Packagist
   - https://packagist.org/
   - https://packagist.com/
@@ -20,54 +16,39 @@
 
 ## Static Analysis
 
-- Psalm / Psalter
-  - https://psalm.dev/
-- Phan
-  - https://github.com/phan/phan
-- PHPStan
-  - https://phpstan.org/
-- Scrutinizer
-  - https://scrutinizer-ci.com/
+- [Psalm / Psalter](https://psalm.dev/)
+- [Phan](https://github.com/phan/phan)
+- [PHPStan](https://phpstan.org/)
+- [Scrutinizer](https://scrutinizer-ci.com/)
 
 ## IDE
 
-- PhpStorm
-  - https://www.jetbrains.com/ru-ru/phpstorm/
-- PHPInspectionsEA
-  - https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-/
+- [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [PHPInspectionsEA](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-/)
 
 ## Security
 
-- Roave Security Advisories
-  - https://github.com/Roave/SecurityAdvisories
+- [Roave Security Advisories](https://github.com/Roave/SecurityAdvisories)
 
 ## Refactoring
 
-- Rector
-  - https://getrector.org/
+- [Rector](https://getrector.org/)
 
 ## Servers
 
-- RoadRunner
-  - https://roadrunner.dev/
-- Swoole
-  - https://www.swoole.co.uk/
+- [RoadRunner](https://roadrunner.dev/)
+- [Swoole](https://www.swoole.co.uk/)
 
 ## Testing
 
-- PHPUnit
-  - https://phpunit.de/
-- Codeception
-  - https://codeception.com/
-- Behat
-  - https://docs.behat.org/en/latest/
-- Infection
-  - https://infection.github.io/
+- [PHPUnit](https://phpunit.de/)
+- [Codeception](https://codeception.com/)
+- [Behat](https://docs.behat.org/en/latest/)
+- [Infection](https://infection.github.io/)
 
 ## Debugging
 
-- XDebug
-  - https://xdebug.org/
+- [XDebug](https://xdebug.org/)
 
 ## Performance
 
@@ -76,35 +57,25 @@
   - https://github.com/longxinH/xhprof
   - https://github.com/perftools/xhgui
   - https://github.com/preinheimer/xhprof
-- Blackfire
-  - https://blackfire.io/
+- [Blackfire](https://blackfire.io/)
 
 ## Frameworks
 
-- Symfony
-  - https://symfony.com/
-- Laravel
-  - https://laravel.com/
-- Yii
-  - https://www.yiiframework.com/
-- Slim
-  - http://www.slimframework.com/
-- Phalcon
-  - https://phalcon.io/
-- ReactPHP
-  - https://reactphp.org/
+- [Symfony](https://symfony.com/)
+- [Laravel](https://laravel.com/)
+- [Yii](https://www.yiiframework.com/)
+- [Slim](http://www.slimframework.com/)
+- [Phalcon](https://phalcon.io/)
+- [ReactPHP](https://reactphp.org/)
 
 ## Documentation
 
-- phpDocumentor
-  - https://www.phpdoc.org/
+- [phpDocumentor](https://www.phpdoc.org/)
 
 ## Architecture
 
-- PHP Depend
-  - https://pdepend.org/
+- [PHP Depend](https://pdepend.org/)
 
 ## Templates
 
-- Twig
-  - https://twig.symfony.com/
+- [Twig](https://twig.symfony.com/)
